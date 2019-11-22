@@ -1,0 +1,5 @@
+name: {{project.name}}
+description: {{project.description}}
+# version: 0.0.1
+# author: {{project.author}} <{{project.authorEmail}}>
+
