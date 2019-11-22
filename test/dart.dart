@@ -1,5 +1,5 @@
 import 'dart:io';
 
 import 'package:{{project.package}}/data/project_info.dart';
-import 'package:f{{project.package}}/util/logger.dart';
+import 'package:{{project.package}}/util/logger.dart';
 
