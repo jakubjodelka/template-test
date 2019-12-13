@@ -8,5 +8,6 @@
             "question": "Question 2",
             "name": "q2"
         }
-    ]
+    ],
+    "success_message": "Additional success message (:"
 }
